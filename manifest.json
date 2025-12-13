@@ -1,0 +1,15 @@
+{
+  "name": "Centro de Estudio de las Escrituras",
+  "short_name": "Escrituras",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d253f",
+  "icons": [
+    {
+      "src": "icono.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
